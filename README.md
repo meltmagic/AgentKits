@@ -1,6 +1,6 @@
 # 🤖 AgentKits
 
-**AgentKits** is a modular, agent-based operating system that simulates a full-service creative, technical, and AI-powered agency. Powered by the [OpenAI Assistants SDK (JavaScript)](https://platform.openai.com/docs/assistants/overview), each agent represents a real-world role — coordinated to plan, build, and deliver end-to-end execution.
+**AgentKits** is a modular, agent-based operating system that simulates a full-service creative, technical, and AI-powered agency. Powered by the [OpenAI Agents SDK (Python)](https://openai.github.io/openai-agents-python/), each agent represents a real-world role — coordinated to plan, build, and deliver end-to-end execution.
 
 > ✨ "It’s like hiring an entire agency — made of autonomous AI."
 
